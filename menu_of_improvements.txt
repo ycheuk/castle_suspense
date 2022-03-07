@@ -1,0 +1,41 @@
+Menu of improvements:
+
+“me” command (2 points): The player has a "sanity bar," which is basically a health bar.
+
+bigger world (2 points): The world has 7 primary rooms, plus 3 additional rooms (but they are not as relevant).
+
+“inspect” command (2 points): Typing "inv" as an input shows the list of items that the player holds, along with their description. 
+
+limited inventory (2 points): The inventory has limited storage (5). 
+
+“drop” command (2 points): Typing "drop <item name>" drops the item in the room the player is currently in. 
+
+healing items (2 points): Eating a chocolate bar restores 20 sanity.
+
+regeneration (2 points): Being around other characters slowly increases your sanity. Your room is also a place where players can regenerate their sanity over time. At the same time, being alone drains the player's sanity.
+
+locked chests (3 points): There is an item called a "locked diary" that requires the player to find the key in order to open it.
+
+locked doors (3 points): One room is locked. This room is called the "Old Duke's Room." In order to have it unlocked, the player must explore all of the other rooms first. 
+
+victory condition (3 points): The player wins if they finds the murderer and leave the castle alive.
+
+random world (3 points): (Not sure if this counts) Depending on the choices you make, the world is generated a little different than other routes.
+
+special rooms (3 points): Going into your room regenerates your sanity. 
+
+player attributes (3 points): Other than the player's sanity, there is also a level and xp attribute.
+
+command abbreviations (1-3 points): "inv" for inventory, "cont" for continue, "char" for characters list.
+
+helper (4 points): The player has a choice of choosing a partner. If the player chooses someone to be by their side, they might have a better time finding out who the real murderer is. They also have a choice to investigate the murder alone.
+
+leveling up (4 points): As the player progresses through the story, they gain "xp." Gaining xp makes them level up. Only if the player reachers certain levels are they able to enter some of the rooms.
+
+characters (4 points): There are 5 main characters in this story (not including the player). You are able to talk to some of them, get to know their stories, and even choose them as your partner!
+
+modifying the world (4 points): In one of the rooms, you must find matches from another room to light up the area with a candle. 
+
+map (3 to 6 points): Typing "map" shows a map made of ASCII art of the first and second story of the castle. 
+
+Total: 52 - 57 points
