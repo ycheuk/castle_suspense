@@ -7,7 +7,7 @@ Recently suffering from amnesia, you struggle to find all the missing pieces to 
 
 How to Run the Game: 
 ────────────────────
-To play, simply run the main.py file in Python by entering ```python main.py``` into the terminal. Make sure Python is properly installed on your device.
+To play, simply run the main.py file in Python by entering `python main.py` into the terminal. Make sure Python is properly installed on your device.
 
 Reading the tutorial is recommended to understand the mechanics of this mystery game, and reading the commands is also helpful in assisting you to progress throughout the game. 
 
